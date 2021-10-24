@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ChatingApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#ADFF08</item>
+        <item name="colorPrimaryVariant">@android:color/holo_green_dark</item>
+        <item name="colorOnPrimary">#A0DC28</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#A0DC28</item>
+        <item name="colorSecondaryVariant">#A0DC28</item>
+        <item name="colorOnSecondary">#A0DC28</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
